@@ -1,0 +1,4 @@
+# Ignore everything inside Datasets directory
+Datasets/**
+# Except for the readme file
+!Datasets/README.md
